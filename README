@@ -1,0 +1,9 @@
+
+kbdbacklight-high - A simple command-line program to set the brightness of
+                    the keyboard backlight to 100%
+
+Heavily based on the work of Amit Singh:
+http://www.osxbook.com/book/bonus/chapter10/light/
+
+(c)2008 Sean M. Graham (http://www.sean-graham.com/)
+        Amit Singh (http://www.osxbook.com/)
